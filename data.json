@@ -1,0 +1,8 @@
+{
+  "webUrl": "https://example.com",
+  "adUrl": "https://ads.com",
+  "supportAdUrl": "https://support.com",
+  "appVersion": 1,
+  "adAfter": 3,
+  "waitSeconds": 5
+}
