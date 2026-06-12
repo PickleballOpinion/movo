@@ -1,8 +1,8 @@
 {
-  "webUrl": "https://example.com",
-  "adUrl": "https://ads.com",
-  "supportAdUrl": "https://support.com",
-  "appVersion": 1,
+  "webUrl": "https://google.com",
+  "adUrl": "https://google.com",
+  "supportAdUrl": "https://google.com/",
+  "appVersion": 50020104,
   "adAfter": 3,
-  "waitSeconds": 5
+  "waitSeconds": 15
 }
